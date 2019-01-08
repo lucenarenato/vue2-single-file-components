@@ -1,6 +1,6 @@
 # vue2-single-file-components
 
-# vue-single-file-components
+### vue-single-file-components
 
 ## Project setup
 ```
@@ -33,6 +33,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+### Aulas
+- [Aulas Reference](https://www.schoolofnet.com/curso/frontend/javascript/vuejs-iniciando-single-file-components/).
 
 ### Limpa cache
 
